@@ -1,6 +1,6 @@
-# Declarative Programming on Twitch
+# Declarative Programming Streams
 
-A list of active declarative programmers on Twitch:
+A list of active declarative programming streams:
 
 - [chiroptical](https://twitch.tv/chiroptical):
   - Speaking: EN
@@ -13,7 +13,7 @@ Streamers should be in alphabetical order by their Twitch ID. Streamers should b
 Streaming should be focused on functional or logic programming. If you focus mostly on one language feel free to make it bold.
 Format for an addition:
 
-- \[_<id\>_](https://twitch.tv/_<id\>_\):
+- \[_<id\>_](<url\>/_<id\>_\):
   - Speaking: <comma separated languages, e.g. RU, EN\>
   - Programming Languages: <comma separated languages, e.g. Haskell, Elm\>
   - Schedule: <link\> _OR_ <string\>
