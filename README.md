@@ -1,6 +1,6 @@
-# Functional Programming on Twitch
+# Declarative Programming on Twitch
 
-A list of active functional programmers on Twitch:
+A list of active declarative programmers on Twitch:
 
 - [chiroptical](https://twitch.tv/chiroptical):
   - Speaking: EN
@@ -10,7 +10,8 @@ A list of active functional programmers on Twitch:
 ##### Contributing
 
 Streamers should be in alphabetical order by their Twitch ID. Streamers should be actively streaming on Twitch.
-If you focus mostly on one language feel free to make it bold. Format for an addition:
+Streaming should be focused on functional or logic programming. If you focus mostly on one language feel free to make it bold.
+Format for an addition:
 
 - \[_<id\>_](https://twitch.tv/_<id\>_\):
   - Speaking: <comma separated languages, e.g. RU, EN\>
