@@ -1,6 +1,6 @@
 # Declarative Programming Streams
 
-A list of active declarative programming streams:
+A list of active (see [active](#active) for how we define active) declarative programming streams:
 
 - [avh4](https://www.twitch.tv/avh4):
   - Speaking: EN
@@ -18,7 +18,13 @@ A list of active declarative programming streams:
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Streams announced on [Twitter](https://twitter.com/kerckhove_ts)
-  
+
+##### Active
+
+The term "active" considers two components: frequency and consistency. The list should consider streamers with a
+good frequency (>=1 stream per month) but consistency is important for many folks. Look for schedules or links to
+a schedule for consistent streamers.
+
 ##### Contributing
 
 Streamers should be in alphabetical order by their Twitch ID. Streamers should be actively streaming on Twitch.
