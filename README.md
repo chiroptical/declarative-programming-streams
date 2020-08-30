@@ -18,7 +18,11 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Streams announced on [Twitter](https://twitter.com/kerckhove_ts)
-
+- [quinndougherty92](https://www.twitch.tv/quinndougherty92)
+  - Speaking: EN
+  - Programming Languages: Coq
+  - Schedule: Sundays 2-5 PM EST
+  
 ##### Active
 
 The term "active" considers two components: frequency and consistency. The list should consider streamers with a
