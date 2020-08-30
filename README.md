@@ -6,6 +6,10 @@ A list of active declarative programming streams:
   - Speaking: EN
   - Programming Languages: **Haskell**, Purescript, Unison
   - Schedule: T/R 7:30-10:30 PM EST
+- [gillchristian](https://twitch.tv/gillchristian):
+  - Speaking: EN
+  - Programming Languages: TypeScript (fp-ts), Haskell, Purescript, Reason, Rust
+  - Schedule: Thursdays 6:00 PM UTC ([gillchristian.yxz/stream](https://gillchristian.xyz/stream))
   
 ##### Contributing
 
