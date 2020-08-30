@@ -2,6 +2,10 @@
 
 A list of active declarative programming streams:
 
+- [avh4](https://www.twitch.tv/avh4):
+  - Speaking: EN
+  - Programming Languages: Elm
+  - Schedule: Available on [Twitch](https://www.twitch.tv/avh4/about)
 - [chiroptical](https://twitch.tv/chiroptical):
   - Speaking: EN
   - Programming Languages: **Haskell**, Purescript, Unison
