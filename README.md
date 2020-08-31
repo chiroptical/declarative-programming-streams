@@ -10,6 +10,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: **Haskell**, Purescript, Unison
   - Schedule: T/R 7:30-10:30 PM EST
+- [cvladfp](https://twitch.tv/cvladfp):
+  - Speaking: EN
+  - Programming Languages: Haskell, Purescript
+  - Schedule: Mon, Tue, Thurs, Wed, Fri, Sun at 8PM UTC
 - [gillchristian](https://twitch.tv/gillchristian):
   - Speaking: EN
   - Programming Languages: TypeScript (fp-ts), Haskell, Purescript, Reason, Rust
@@ -22,7 +26,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Coq
   - Schedule: Sundays 2-5 PM EST
-  
+
 ##### Active
 
 The term "active" considers two components: frequency and consistency. The list should consider streamers with a
