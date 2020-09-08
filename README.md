@@ -26,6 +26,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Coq
   - Schedule: Sundays 2-5 PM EST
+- [totbwf](https://www.twitch.tv/totbwf)
+  - Speaking: EN
+  - Programming Languages: Agda, Pen and Paper
+  - Schedule: Mon, Thurs at 5 PM PST
 
 ##### Active
 
