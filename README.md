@@ -2,6 +2,10 @@
 
 A list of active (see [active](#active) for how we define active) declarative programming streams:
 
+- [agentultra](https://www.twitch.tv/agentultra)
+  - Speaking: EN
+  - Programming Languages: Haskell
+  - Schedule: Tue at 8:10pm EST
 - [avh4](https://www.twitch.tv/avh4):
   - Speaking: EN
   - Programming Languages: Elm
