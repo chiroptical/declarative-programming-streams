@@ -68,3 +68,11 @@ Add your stream to [streamers.json](streamers.json). All fields are required.
   "schedule": "Your schedule. [Can cointain markdown links](https://schedule.com) and __formatting__"
 }
 ```
+
+Then generate the list by running:
+
+```bash
+$ ./generate.hs
+```
+
+NOTE: the script is written in Haskell and uses the [Stack script interpreter](https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter).
