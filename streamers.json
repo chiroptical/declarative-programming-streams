@@ -1,0 +1,71 @@
+[
+  {
+    "name": "agentultra",
+    "channel": "https://www.twitch.tv/agentultra",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Tue at 8:10pm EST"
+  },
+  {
+    "name": "avh4",
+    "channel": "https://www.twitch.tv/avh4",
+    "speaking": ["EN"],
+    "languages": ["Elm"],
+    "schedule": "Available on [Twitch](https://www.twitch.tv/avh4/about)"
+  },
+  {
+    "name": "chiroptical",
+    "channel": "https://twitch.tv/chiroptical",
+    "speaking": ["EN"],
+    "languages": ["**Haskell**", "PureScript", "Unison"],
+    "schedule": "T/R 7:30-10:30 PM EST"
+  },
+  {
+    "name": "cvladfp",
+    "channel": "https://twitch.tv/cvladfp",
+    "speaking": ["EN"],
+    "languages": ["Haskell", "PureScript"],
+    "schedule": "Mon, Tue, Thurs, Wed, Fri, Sun at 8PM UTC"
+  },
+  {
+    "name": "gillchristian",
+    "channel": "https://twitch.tv/gillchristian",
+    "speaking": ["EN"],
+    "languages": [
+      "Haskell",
+      "PureScript",
+      "TypeScript (fp-ts)",
+      "Reason",
+      "Rust"
+    ],
+    "schedule": "Tuesdays & Thursdays 19:00-21:00 UTC ([gillchristian.yxz/stream](https://gillchristian.xyz/stream))"
+  },
+  {
+    "name": "IdentityGS",
+    "channel": "https://twitch.tv/identityGS",
+    "speaking": ["EN"],
+    "languages": ["Idris"],
+    "schedule": "Wed, Fri and Sun at 8 PM UTC+0"
+  },
+  {
+    "name": "kerckhove_ts",
+    "channel": "https://www.twitch.tv/kerckhove_ts",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Streams announced on [Twitter](https://twitter.com/kerckhove_ts)"
+  },
+  {
+    "name": "quinndougherty92",
+    "channel": "https://www.twitch.tv/quinndougherty92",
+    "speaking": ["EN"],
+    "languages": ["Coq"],
+    "schedule": "Sundays 2-5 PM EST"
+  },
+  {
+    "name": "totbwf",
+    "channel": "https://www.twitch.tv/totbwf",
+    "speaking": ["EN"],
+    "languages": ["Agda", "Pen and Paper"],
+    "schedule": "Mon, Thurs at 5 PM PST"
+  }
+]
