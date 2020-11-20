@@ -33,7 +33,7 @@
     "speaking": ["EN"],
     "languages": [
       "Haskell",
-      "Purescript",
+      "PureScript",
       "TypeScript (fp-ts)",
       "Reason",
       "Rust"
