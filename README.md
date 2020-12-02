@@ -10,8 +10,8 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Schedule: Tue at 8:10pm EST
 - [avh4](https://www.twitch.tv/avh4):
   - Speaking: EN
-  - Programming Languages: Elm
-  - Schedule: Available on [Twitch](https://www.twitch.tv/avh4/about)
+  - Programming Languages: Elm, Haskell
+  - Schedule: [Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)
 - [chiroptical](https://twitch.tv/chiroptical):
   - Speaking: EN
   - Programming Languages: **Haskell**, PureScript, Unison

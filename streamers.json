@@ -10,8 +10,8 @@
     "name": "avh4",
     "channel": "https://www.twitch.tv/avh4",
     "speaking": ["EN"],
-    "languages": ["Elm"],
-    "schedule": "Available on [Twitch](https://www.twitch.tv/avh4/about)"
+    "languages": ["Elm", "Haskell"],
+    "schedule": "[Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)"
   },
   {
     "name": "chiroptical",
