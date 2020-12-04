@@ -1,14 +1,8 @@
-#!/usr/bin/env stack
-{- stack
-   script
-   --resolver lts-16.21
-   --package aeson
-   --package parsec
--}
-
 {-# LANGUAGE DeriveAnyClass #-}
 {-# LANGUAGE DeriveGeneric #-}
 {-# LANGUAGE OverloadedStrings #-}
+
+module Main where
 
 import Data.Aeson
 import Data.Bifunctor (first)
@@ -16,6 +10,7 @@ import Data.List (intercalate)
 import GHC.Generics
 import Text.Parsec
 import Text.Parsec.Text
+import System.Environment
 
 data Streamer = Streamer
   { name :: String,
@@ -58,12 +53,17 @@ generateReadme (before, after) ss =
       "\n" <> endFence <> after
     ]
 
+readme :: String
+readme = "Usage: ./generate-readme README.md streamers.json"
+
 main :: IO ()
 main = do
-  contents <- first show <$> parseFromFile readmeP "README.md"
-  streamers <- eitherDecodeFileStrict "streamers.json"
-  case generateReadme <$> contents <*> streamers of
-    Right f -> do
-      writeFile "README.md" f
-      putStrLn "README.md generated!"
-    Left err -> putStrLn err
+  args <- getArgs
+  case args of
+    [readmeFileName, streamerFileName] -> do
+      contents <- first show <$> parseFromFile readmeP readmeFileName
+      streamers <- eitherDecodeFileStrict streamerFileName
+      case generateReadme <$> contents <*> streamers of
+        Right newContents -> putStr newContents
+        Left err -> putStrLn err
+    _ -> putStrLn readme

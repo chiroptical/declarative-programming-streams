@@ -1,0 +1,40 @@
+name: "Generate README.md"
+on:
+  push:
+    branches:
+      - master
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.3.4
+    - uses: cachix/install-nix-action@v12
+      with:
+        nix_path: nixpkgs=channel:nixos-unstable
+    - uses: technote-space/get-diff-action@v4
+      with:
+        FILES: |
+          README.md
+    - uses: cachix/cachix-action@v8
+      with:
+        name: chiroptical
+        # If you chose signing key for write access
+        signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
+        # If you chose API tokens for write access OR if you have a private cache
+        authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
+    - run: nix-build
+    - name: Copy README.md from nix-build
+      run: |
+        cp result/README.md .
+    - name: Commit new README.md
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -am "Automatically generate README.md"
+      if: env.GIT_DIFF
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+      if: env.GIT_DIFF
