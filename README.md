@@ -69,10 +69,4 @@ Add your stream to [streamers.json](streamers.json). All fields are required.
 }
 ```
 
-Then generate the list by running:
-
-```bash
-$ ./generate.hs
-```
-
-NOTE: the script is written in Haskell and uses the [Stack script interpreter](https://docs.haskellstack.org/en/stable/GUIDE/#script-interpreter).
+Submit a PR with your changes to `streamers.json` and the CI will autogenerate a `README.md` when it hits master.
