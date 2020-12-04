@@ -24,6 +24,7 @@ jobs:
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
     - run: nix-build
     - name: Copy README.md from nix-build
+      id: copy-readme
       run: |
         cp result/README.md .
     - name: Commit new README.md
@@ -31,10 +32,10 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git commit -am "Automatically generate README.md"
-      if: env.GIT_DIFF
+      if: steps.copy-readme.outputs.diff
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-      if: env.GIT_DIFF
+      if: steps.copy-readme.outputs.diff
