@@ -67,5 +67,12 @@
     "speaking": ["EN"],
     "languages": ["Agda", "Pen and Paper"],
     "schedule": "Mon, Thurs at 5 PM PST"
-  }
+  },
+  {
+    "name": "tritlo",
+    "channel": "https://www.twitch.tv/tritlo",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Streams announced on [Twitter](https://twitter.com/tritlo)"
+  },
 ]
