@@ -1,4 +1,4 @@
-name: "Generate README.md"
+name: "Check jq can parse streamers.json"
 on:
   pull_request:
     branches:
