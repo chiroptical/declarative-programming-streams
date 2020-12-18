@@ -74,5 +74,12 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Streams announced on [Twitter](https://twitter.com/tritlo)"
+  },
+  {
+    "name": "myShoggoth",
+    "channel": "https://www.twitch.tv/myshoggoth",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Sunday, Monday, and Thursday at 8:30 PM PST"
   }
 ]
