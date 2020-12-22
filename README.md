@@ -32,6 +32,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Streams announced on [Twitter](https://twitter.com/kerckhove_ts)
+- [myShoggoth](https://www.twitch.tv/myshoggoth):
+  - Speaking: EN
+  - Programming Languages: Haskell
+  - Schedule: Sunday, Monday, and Thursday at 8:30 PM PST
 - [quinndougherty92](https://www.twitch.tv/quinndougherty92):
   - Speaking: EN
   - Programming Languages: Coq
@@ -40,6 +44,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Agda, Pen and Paper
   - Schedule: Mon, Thurs at 5 PM PST
+- [tritlo](https://www.twitch.tv/tritlo):
+  - Speaking: EN
+  - Programming Languages: Haskell
+  - Schedule: Streams announced on [Twitter](https://twitter.com/tritlo)
 
 <!-- generated:end -->
 
