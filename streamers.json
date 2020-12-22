@@ -55,6 +55,13 @@
     "schedule": "Streams announced on [Twitter](https://twitter.com/kerckhove_ts)"
   },
   {
+    "name": "myShoggoth",
+    "channel": "https://www.twitch.tv/myshoggoth",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Sunday, Monday, and Thursday at 8:30 PM PST"
+  },
+  {
     "name": "quinndougherty92",
     "channel": "https://www.twitch.tv/quinndougherty92",
     "speaking": ["EN"],
