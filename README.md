@@ -28,6 +28,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Idris
   - Schedule: Wed, Fri and Sun at 8 PM UTC+0
+- [junxan](https://twitch.tv/junxan):
+  - Speaking: EN
+  - Programming Languages: Purescript
+  - Schedule: Daily at 5/6 PM UTC+1
 - [kerckhove_ts](https://www.twitch.tv/kerckhove_ts):
   - Speaking: EN
   - Programming Languages: Haskell
