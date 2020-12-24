@@ -48,6 +48,13 @@
     "schedule": "Wed, Fri and Sun at 8 PM UTC+0"
   },
   {
+    "name": "junxan",
+    "channel": "https://twitch.tv/junxan",
+    "speaking": ["EN"],
+    "languages": ["Purescript"],
+    "schedule": "Daily at 5/6 PM UTC+1"
+  },
+  {
     "name": "kerckhove_ts",
     "channel": "https://www.twitch.tv/kerckhove_ts",
     "speaking": ["EN"],
