@@ -51,8 +51,8 @@
     "name": "junxan",
     "channel": "https://twitch.tv/junxan",
     "speaking": ["EN"],
-    "languages": ["Purescript"],
-    "schedule": "Daily at 5/6 PM UTC+1"
+    "languages": ["Purescript", "Haskell"],
+    "schedule": "Weekdays at 8 PM UTC+1 (full schedule [on twitch](https://www.twitch.tv/junxan/schedule))"
   },
   {
     "name": "kerckhove_ts",
