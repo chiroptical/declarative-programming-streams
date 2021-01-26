@@ -11,8 +11,7 @@
     "channel": "https://www.twitch.tv/avh4",
     "speaking": ["EN"],
     "languages": ["Elm", "Haskell"],
-    "schedule":
-      "[Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)"
+    "schedule": "[Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)"
   },
   {
     "name": "chiroptical",
@@ -39,8 +38,7 @@
       "Reason",
       "Rust"
     ],
-    "schedule":
-      "Tuesdays & Thursdays 19:00-21:00 UTC ([gillchristian.yxz/stream](https://gillchristian.xyz/stream))"
+    "schedule": "Tuesdays & Thursdays 19:00-21:00 UTC ([gillchristian.yxz/stream](https://gillchristian.xyz/stream))"
   },
   {
     "name": "IdentityGS",
@@ -54,16 +52,21 @@
     "channel": "https://twitch.tv/junxan",
     "speaking": ["EN"],
     "languages": ["Purescript", "Haskell"],
-    "schedule":
-      "Weekdays at 8 PM UTC+1 (full schedule [on twitch](https://www.twitch.tv/junxan/schedule))"
+    "schedule": "Weekdays at 8 PM UTC+1 (full schedule [on twitch](https://www.twitch.tv/junxan/schedule))"
   },
   {
     "name": "kerckhove_ts",
     "channel": "https://www.twitch.tv/kerckhove_ts",
     "speaking": ["EN"],
     "languages": ["Haskell"],
-    "schedule":
-      "Streams announced on [Twitter](https://twitter.com/kerckhove_ts)"
+    "schedule": "Streams announced on [Twitter](https://twitter.com/kerckhove_ts)"
+  },
+  {
+    "name": "luctielen",
+    "channel": "https://www.twitch.tv/luctielen",
+    "speaking": ["EN"],
+    "languages": ["**Haskell**", "Datalog", "Elixir"],
+    "schedule": "Sundays at 9PM GMT+1"
   },
   {
     "name": "myShoggoth",
@@ -92,12 +95,5 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Streams announced on [Twitter](https://twitter.com/tritlo)"
-  },
-  {
-    "name": "luctielen",
-    "channel": "https://www.twitch.tv/luctielen",
-    "speaking": ["EN"],
-    "languages": ["**Haskell**", "Datalog", "Elixir"],
-    "schedule": "Sundays at 9PM GMT+1"
   }
 ]
