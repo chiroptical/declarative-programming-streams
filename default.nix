@@ -13,6 +13,7 @@ in
     installPhase = ''
       mkdir -p $out
       cp ${readmeMd} ${streamersJson} $out
+      cp ${generate-readme.outPath}/bin/generate-readme $out
     '';
     shellHook = ''
       ${generate-readme.outPath}/bin/generate-readme ${readmeMd} ${streamersJson} > $out/README.md
