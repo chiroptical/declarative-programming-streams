@@ -6,11 +6,12 @@ module Main where
 
 import Data.Aeson
 import Data.Bifunctor (first)
-import Data.List (intercalate)
+import Data.Char (toLower)
+import Data.List (intercalate, sortOn)
 import GHC.Generics
+import System.Environment
 import Text.Parsec
 import Text.Parsec.Text
-import System.Environment
 
 data Streamer = Streamer
   { name :: String,
@@ -62,7 +63,7 @@ main = do
   case args of
     [readmeFileName, streamerFileName] -> do
       contents <- first show <$> parseFromFile readmeP readmeFileName
-      streamers <- eitherDecodeFileStrict streamerFileName
+      streamers <- (fmap . fmap) (sortOn (fmap toLower . name)) $ eitherDecodeFileStrict streamerFileName
       case generateReadme <$> contents <*> streamers of
         Right newContents -> putStr newContents
         Left err -> putStrLn err
