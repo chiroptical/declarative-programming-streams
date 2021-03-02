@@ -62,6 +62,13 @@
     "schedule": "Streams announced on [Twitter](https://twitter.com/kerckhove_ts)"
   },
   {
+    "name": "lowderdev",
+    "channel": "https://www.twitch.tv/lowderdev",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Monday, Wednesday, Saturday 7:30pm - 10pmish US Central Time (GMT+6)"
+  },
+  {
     "name": "luctielen",
     "channel": "https://www.twitch.tv/luctielen",
     "speaking": ["EN"],
