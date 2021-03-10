@@ -39,7 +39,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
 - [lowderdev](https://www.twitch.tv/lowderdev):
   - Speaking: EN
   - Programming Languages: Haskell
-  - Schedule: Monday, Wednesday, Saturday 7:30pm - 10pmish US Central Time (GMT+6)
+  - Schedule: Monday, Wednesday, Saturday 8pm - 10pm(ish) US Central Time (GMT-6)
 - [luctielen](https://www.twitch.tv/luctielen):
   - Speaking: EN
   - Programming Languages: **Haskell**, Datalog, Elixir
