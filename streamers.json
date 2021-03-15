@@ -90,6 +90,13 @@
     "schedule": "Sundays 2-5 PM EST"
   },
   {
+    "name": "suppipi",
+    "channel": "https://twitch.tv/suppipi",
+    "speaking": ["EN"],
+    "languages": ["**Haskell**", "C"],
+    "schedule": "See full schedule [on twitch](https://www.twitch.tv/suppipi/schedule)"
+  },
+  {
     "name": "totbwf",
     "channel": "https://www.twitch.tv/totbwf",
     "speaking": ["EN"],
