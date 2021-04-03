@@ -109,5 +109,12 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Streams announced on [Twitter](https://twitter.com/tritlo)"
+  },
+  {
+    "name": "tscholak",
+    "channel": "https://www.twitch.tv/tscholak",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Streams announced on [Twitter](https://twitter.com/tscholak)"
   }
 ]
