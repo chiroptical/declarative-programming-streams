@@ -109,5 +109,12 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Streams announced on [Twitter](https://twitter.com/tritlo)"
+  },
+  {
+    "name": "gelisam",
+    "channel": "https://www.twitch.tv/gelisam",
+    "speaking": ["EN"],
+    "languages": ["**Haskell**", "Agda"],
+    "schedule": "Sundays at 3:30 ET"
   }
 ]
