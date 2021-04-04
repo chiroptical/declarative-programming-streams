@@ -68,6 +68,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Streams announced on [Twitter](https://twitter.com/tritlo)
+- [tscholak](https://www.twitch.tv/tscholak):
+  - Speaking: EN
+  - Programming Languages: Haskell
+  - Schedule: Streams announced on [Twitter](https://twitter.com/tscholak)
 
 <!-- generated:end -->
 
