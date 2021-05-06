@@ -14,8 +14,8 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Schedule: [Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)
 - [chiroptical](https://twitch.tv/chiroptical):
   - Speaking: EN
-  - Programming Languages: **Haskell**, PureScript, Unison
-  - Schedule: T/R 7:30-10:30 PM EST
+  - Programming Languages: **Haskell**, Kotlin
+  - Schedule: Sun 9:00-11:00 AM EST
 - [cvladfp](https://twitch.tv/cvladfp):
   - Speaking: EN
   - Programming Languages: Haskell, PureScript
