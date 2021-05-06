@@ -17,8 +17,8 @@
     "name": "chiroptical",
     "channel": "https://twitch.tv/chiroptical",
     "speaking": ["EN"],
-    "languages": ["**Haskell**", "PureScript", "Unison"],
-    "schedule": "T/R 7:30-10:30 PM EST"
+    "languages": ["**Haskell**", "Kotlin"],
+    "schedule": "Sun 9:00-11:00 AM EST"
   },
   {
     "name": "cvladfp",
