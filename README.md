@@ -23,7 +23,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
 - [gelisam](https://www.twitch.tv/gelisam):
   - Speaking: EN
   - Programming Languages: **Haskell**, Agda
-  - Schedule: Sundays at 3:30 ET
+  - Schedule: Wednesdays at 5:15 ET, and every 2nd Sunday at 3:30 ET
 - [gillchristian](https://twitch.tv/gillchristian):
   - Speaking: EN
   - Programming Languages: Haskell, PureScript, TypeScript (fp-ts), Reason, Rust
