@@ -7,7 +7,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
 - [agentultra](https://www.twitch.tv/agentultra):
   - Speaking: EN
   - Programming Languages: Haskell
-  - Schedule: Tue at 8:10pm EST
+  - Schedule: Tue at 8:10pm EST - [full schedule on twitch](https://www.twitch.tv/agentultra/schedule)
 - [avh4](https://www.twitch.tv/avh4):
   - Speaking: EN
   - Programming Languages: Elm, Haskell
