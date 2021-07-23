@@ -1,11 +1,12 @@
-{ mkDerivation, aeson, base, parsec, stdenv, text }:
-mkDerivation {
-  pname = "generate-readme";
-  version = "0.1.0.0";
-  src = ./.;
-  isLibrary = false;
-  isExecutable = true;
-  executableHaskellDepends = [ aeson base parsec text ];
-  license = "unknown";
-  hydraPlatforms = stdenv.lib.platforms.none;
+{ pkgs ? import ./pkgs.nix { } }:
+let
+  hsPkgs = pkgs.haskell.packages.ghc884;
+  generate-readme = hsPkgs.callCabal2nix "generate-readme" ./. { };
+  shell = hsPkgs.shellFor {
+    packages = ps: [ generate-readme ];
+    buildInputs = with pkgs; [ cabal-install ];
+  };
+in
+{
+  inherit shell generate-readme;
 }

@@ -1,9 +1,9 @@
 import (builtins.fetchGit {
   # Descriptive name to make the store path easier to identify
-  name = "nixos-20.09";
+  name = "nixos-unstable";
   url = "https://github.com/nixos/nixpkgs";
-  # Commit hash for nixos-20.09 as of 2020-11-24
-  # `git ls-remote https://github.com/nixos/nixpkgs nixos-20.09`
-  ref = "refs/heads/nixos-20.09";
-  rev = "19db3e5ea2777daa874563b5986288151f502e27";
+  # Commit hash for nixos-unstable as of 2021-07-22
+  # `git ls-remote https://github.com/nixos/nixpkgs nixos-unstable`
+  ref = "refs/heads/nixos-unstable";
+  rev = "16105403bdd843540cbef9c63fc0f16c1c6eaa70";
 })

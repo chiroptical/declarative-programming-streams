@@ -1,5 +1,5 @@
 let
-  generate-readme = import ./generate-readme/release.nix;
+  generate-readme = (import ./generate-readme/default.nix {}).generate-readme;
   pkgs = import ./generate-readme/pkgs.nix {};
   readmeMd = ./README.md;
   streamersJson = ./streamers.json;
