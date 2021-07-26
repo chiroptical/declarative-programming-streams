@@ -109,12 +109,5 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Streams announced on [Twitter](https://twitter.com/tscholak)"
-  },
-  {
-    "name": "gelisam",
-    "channel": "https://www.twitch.tv/gelisam",
-    "speaking": ["EN"],
-    "languages": ["**Haskell**", "Agda"],
-    "schedule": "Wednesdays at 5:15 ET, and every 2nd Sunday at 3:30 ET"
   }
 ]
