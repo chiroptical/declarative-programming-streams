@@ -21,13 +21,6 @@
     "schedule": "Sun 9:00-11:00 AM EST"
   },
   {
-    "name": "cvladfp",
-    "channel": "https://twitch.tv/cvladfp",
-    "speaking": ["EN"],
-    "languages": ["Haskell", "PureScript"],
-    "schedule": "Mon, Tue, Thurs, Wed, Fri, Sun at 8PM UTC"
-  },
-  {
     "name": "gillchristian",
     "channel": "https://twitch.tv/gillchristian",
     "speaking": ["EN"],
