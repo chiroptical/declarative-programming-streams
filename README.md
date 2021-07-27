@@ -27,7 +27,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
 - [junxan](https://twitch.tv/junxan):
   - Speaking: EN
   - Programming Languages: Purescript, Haskell
-  - Schedule: Weekdays at 8 PM UTC+1 (full schedule [on twitch](https://www.twitch.tv/junxan/schedule))
+  - Schedule: Tuesdays, Thursdays at 8 PM, Saturdays at 4 PM UTC+1 (full schedule [on twitch](https://www.twitch.tv/junxan/schedule))
 - [kerckhove_ts](https://www.twitch.tv/kerckhove_ts):
   - Speaking: EN
   - Programming Languages: Haskell
