@@ -62,13 +62,6 @@
     "schedule": "Wednesday and Saturday at 8pm - 10pm(ish) US Central Time (GMT-5)"
   },
   {
-    "name": "luctielen",
-    "channel": "https://www.twitch.tv/luctielen",
-    "speaking": ["EN"],
-    "languages": ["**Haskell**", "Datalog", "Elixir"],
-    "schedule": "Sundays at 9PM GMT+1"
-  },
-  {
     "name": "myShoggoth",
     "channel": "https://www.twitch.tv/myshoggoth",
     "speaking": ["EN"],
@@ -81,13 +74,6 @@
     "speaking": ["EN"],
     "languages": ["Coq"],
     "schedule": "Sundays 2-5 PM EST"
-  },
-  {
-    "name": "suppipi",
-    "channel": "https://twitch.tv/suppipi",
-    "speaking": ["EN"],
-    "languages": ["**Haskell**", "C"],
-    "schedule": "See full schedule [on twitch](https://www.twitch.tv/suppipi/schedule)"
   },
   {
     "name": "totbwf",
