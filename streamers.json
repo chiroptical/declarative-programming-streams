@@ -21,6 +21,13 @@
     "schedule": "Sun 9:00-11:00 AM EST"
   },
   {
+    "name": "evie",
+    "channel": "https://www.twitch.tv/eviefp",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Daily at 17:00 CET / 11:00 EST."
+  },
+  {
     "name": "gillchristian",
     "channel": "https://twitch.tv/gillchristian",
     "speaking": ["EN"],
