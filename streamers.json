@@ -95,5 +95,12 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Streams announced on [Twitter](https://twitter.com/tscholak)"
+  },
+  {
+    "name": "klarkc",
+    "channel": "https://www.twitch.tv/klarkc",
+    "speaking": ["EN", "PT"],
+    "languages": ["PureScript", "JavaScript", "Haskell"],
+    "schedule": "Everyday at 8 AM EST [full schedule on twitch](https://www.twitch.tv/klarkc/schedule)"
   }
 ]
