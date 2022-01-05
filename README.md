@@ -32,6 +32,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Streams announced on [Twitter](https://twitter.com/kerckhove_ts)
+- [klarkc](https://www.twitch.tv/klarkc):
+  - Speaking: EN, PT
+  - Programming Languages: PureScript, JavaScript, Haskell
+  - Schedule: Everyday at 8 AM EST [full schedule on twitch](https://www.twitch.tv/klarkc/schedule)
 - [lowderdev](https://www.twitch.tv/lowderdev):
   - Speaking: EN
   - Programming Languages: Haskell
