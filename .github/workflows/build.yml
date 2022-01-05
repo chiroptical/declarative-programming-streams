@@ -18,7 +18,10 @@ jobs:
         signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
         # If you chose API tokens for write access OR if you have a private cache
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
-    - run: nix-build
+    - name: Run nix-build for generate-readme so that it is cached
+      run: nix-build generate-readme
+    - name: Generate README.md
+      run: nix-build
     - name: Copy README.md from nix-build
       run: |
         cp result/README.md .
