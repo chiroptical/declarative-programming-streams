@@ -8,7 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.4.0
-    - name: Install jq quick
-      run: sudo apt install jq
     - name: Verify we can parse the streamers.json
       run: cat streamers.json | jq
