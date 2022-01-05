@@ -19,7 +19,9 @@ jobs:
         # If you chose API tokens for write access OR if you have a private cache
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
     - name: Run nix-build for generate-readme
-      run: nix-build generate-readme
+      run: |
+        cachix use chiroptical
+        nix-build generate-readme
     - name: Generate README.md
       run: nix-build
     - name: Copy README.md from nix-build
