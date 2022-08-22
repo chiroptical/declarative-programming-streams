@@ -7,17 +7,10 @@
     "schedule": "Tue at 8:10pm EST - [full schedule on twitch](https://www.twitch.tv/agentultra/schedule)"
   },
   {
-    "name": "avh4",
-    "channel": "https://www.twitch.tv/avh4",
-    "speaking": ["EN"],
-    "languages": ["Elm", "Haskell"],
-    "schedule": "[Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)"
-  },
-  {
     "name": "chiroptical",
     "channel": "https://twitch.tv/chiroptical",
     "speaking": ["EN"],
-    "languages": ["**Haskell**", "Kotlin"],
+    "languages": ["**Haskell**", "Rust", "TypeScript"],
     "schedule": "Sun 9:00-11:00 AM EST"
   },
   {
@@ -39,62 +32,6 @@
     "speaking": ["EN"],
     "languages": ["Idris"],
     "schedule": "Wed and Fri between 2 and 6pm UTC+0"
-  },
-  {
-    "name": "junxan",
-    "channel": "https://twitch.tv/junxan",
-    "speaking": ["EN"],
-    "languages": ["Purescript", "Haskell"],
-    "schedule": "Tuesdays, Thursdays at 8 PM, Saturdays at 4 PM UTC+1 (full schedule [on twitch](https://www.twitch.tv/junxan/schedule))"
-  },
-  {
-    "name": "kerckhove_ts",
-    "channel": "https://www.twitch.tv/kerckhove_ts",
-    "speaking": ["EN"],
-    "languages": ["Haskell"],
-    "schedule": "Streams announced on [Twitter](https://twitter.com/kerckhove_ts)"
-  },
-  {
-    "name": "lowderdev",
-    "channel": "https://www.twitch.tv/lowderdev",
-    "speaking": ["EN"],
-    "languages": ["Haskell"],
-    "schedule": "Wednesday and Saturday at 8pm - 10pm(ish) US Central Time (GMT-5)"
-  },
-  {
-    "name": "myShoggoth",
-    "channel": "https://www.twitch.tv/myshoggoth",
-    "speaking": ["EN"],
-    "languages": ["Haskell"],
-    "schedule": "Sunday, Monday, and Thursday at 8:30 PM PST"
-  },
-  {
-    "name": "quinndougherty92",
-    "channel": "https://www.twitch.tv/quinndougherty92",
-    "speaking": ["EN"],
-    "languages": ["Coq"],
-    "schedule": "Sundays 2-5 PM EST"
-  },
-  {
-    "name": "totbwf",
-    "channel": "https://www.twitch.tv/totbwf",
-    "speaking": ["EN"],
-    "languages": ["Agda", "Pen and Paper"],
-    "schedule": "Mon, Thurs at 5 PM PST"
-  },
-  {
-    "name": "tritlo",
-    "channel": "https://www.twitch.tv/tritlo",
-    "speaking": ["EN"],
-    "languages": ["Haskell"],
-    "schedule": "Streams announced on [Twitter](https://twitter.com/tritlo)"
-  },
-  {
-    "name": "tscholak",
-    "channel": "https://www.twitch.tv/tscholak",
-    "speaking": ["EN"],
-    "languages": ["Haskell"],
-    "schedule": "Streams announced on [Twitter](https://twitter.com/tscholak)"
   },
   {
     "name": "klarkc",
