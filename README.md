@@ -65,9 +65,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
 
 ##### Active
 
-The term "active" considers two components: frequency and consistency. The list should consider streamers with a
-good frequency (>=1 stream per month) but consistency is important for many folks. Look for schedules or links to
-a schedule for consistent streamers.
+The term "active" considers two components: frequency and consistency. The list
+should consider streamers with a good frequency (>=1 stream per month) but
+consistency is important for many folks. Look for schedules or links to a
+schedule for consistent streamers.
 
 ##### Contributing
 
@@ -89,4 +90,14 @@ Add your stream to [streamers.json](streamers.json). All fields are required.
 }
 ```
 
-Submit a PR with your changes to `streamers.json` and the CI will autogenerate a `README.md` when it hits master.
+Submit a PR with your changes to `streamers.json` and the CI will autogenerate
+a `README.md` when it hits master.
+
+#### Previously Active Streams
+
+Here is a list of previously active streamers. Please open up a PR to make
+yourself active again
+
+<!-- generated:not-active-start -->
+...
+<!-- generated:not-active-end -->
