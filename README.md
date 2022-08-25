@@ -19,7 +19,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
 - [IdentityGS](https://twitch.tv/identityGS):
   - Speaking: EN
   - Programming Languages: Idris
-  - Schedule: Wed and Fri between 2 and 6pm UTC+0
+  - Schedule: Tuesday 8-10PM UTC+1
 - [klarkc](https://www.twitch.tv/klarkc):
   - Speaking: EN, PT
   - Programming Languages: PureScript, JavaScript, Haskell
