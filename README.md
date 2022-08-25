@@ -19,13 +19,14 @@ A list of active (see [active](#active) for how we define active) declarative pr
 - [IdentityGS](https://twitch.tv/identityGS):
   - Speaking: EN
   - Programming Languages: Idris
-  - Schedule: Tuesday 8-10PM UTC+1
+  - Schedule: Wed and Fri between 2 and 6pm UTC+0
 - [klarkc](https://www.twitch.tv/klarkc):
   - Speaking: EN, PT
   - Programming Languages: PureScript, JavaScript, Haskell
   - Schedule: Everyday at 8 AM EST [full schedule on twitch](https://www.twitch.tv/klarkc/schedule)
 
 <!-- generated:end -->
+
 
 
 ##### Active
@@ -62,6 +63,7 @@ a `README.md` when it hits master.
 
 Here is a list of previously active streamers. Please open up a PR to make
 yourself active again
+
 
 
 <!-- generated:not-active-start -->
@@ -104,4 +106,5 @@ yourself active again
   - Schedule: Streams announced on [Twitter](https://twitter.com/tscholak)
 
 <!-- generated:not-active-end -->
+
 
