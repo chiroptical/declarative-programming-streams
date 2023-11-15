@@ -8,22 +8,6 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Tue at 8:10pm EST - [full schedule on twitch](https://www.twitch.tv/agentultra/schedule)
-- [chiroptical](https://twitch.tv/chiroptical):
-  - Speaking: EN
-  - Programming Languages: **Haskell**, Rust, TypeScript
-  - Schedule: Sun 9:00-11:00 AM EST
-- [gillchristian](https://twitch.tv/gillchristian):
-  - Speaking: EN
-  - Programming Languages: Haskell, PureScript, TypeScript (fp-ts), Reason, Rust
-  - Schedule: [gillchristian.yxz/stream](https://gillchristian.xyz/stream)
-- [IdentityGS](https://twitch.tv/identityGS):
-  - Speaking: EN
-  - Programming Languages: Idris
-  - Schedule: Wed and Fri between 2 and 6pm UTC+0
-- [klarkc](https://www.twitch.tv/klarkc):
-  - Speaking: EN, PT
-  - Programming Languages: PureScript, JavaScript, Haskell
-  - Schedule: Everyday at 8 AM EST [full schedule on twitch](https://www.twitch.tv/klarkc/schedule)
 
 <!-- generated:end -->
 
@@ -65,13 +49,24 @@ Here is a list of previously active streamers. Please open up a PR to make
 yourself active again
 
 
-
 <!-- generated:not-active-start -->
 
 - [avh4](https://www.twitch.tv/avh4):
   - Speaking: EN
   - Programming Languages: Elm, Haskell
   - Schedule: [Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)
+- [chiroptical](https://twitch.tv/chiroptical):
+  - Speaking: EN
+  - Programming Languages: **Haskell**, Rust, TypeScript
+  - Schedule: Sun 9:00-11:00 AM EST
+- [gillchristian](https://twitch.tv/gillchristian):
+  - Speaking: EN
+  - Programming Languages: Haskell, PureScript, TypeScript (fp-ts), Reason, Rust
+  - Schedule: [gillchristian.yxz/stream](https://gillchristian.xyz/stream)
+- [IdentityGS](https://twitch.tv/identityGS):
+  - Speaking: EN
+  - Programming Languages: Idris
+  - Schedule: Wed and Fri between 2 and 6pm UTC+0
 - [junxan](https://twitch.tv/junxan):
   - Speaking: EN
   - Programming Languages: Purescript, Haskell
@@ -80,6 +75,10 @@ yourself active again
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Streams announced on [Twitter](https://twitter.com/kerckhove_ts)
+- [klarkc](https://www.twitch.tv/klarkc):
+  - Speaking: EN, PT
+  - Programming Languages: PureScript, JavaScript, Haskell
+  - Schedule: Everyday at 8 AM EST [full schedule on twitch](https://www.twitch.tv/klarkc/schedule)
 - [lowderdev](https://www.twitch.tv/lowderdev):
   - Speaking: EN
   - Programming Languages: Haskell
@@ -106,5 +105,6 @@ yourself active again
   - Schedule: Streams announced on [Twitter](https://twitter.com/tscholak)
 
 <!-- generated:not-active-end -->
+
 
 

@@ -1,6 +1,6 @@
 { pkgs ? import ./pkgs.nix { } }:
 let
-  hsPkgs = pkgs.haskell.packages.ghc884;
+  hsPkgs = pkgs.haskell.packages.ghc94;
   generate-readme = hsPkgs.callCabal2nix "generate-readme" ./. { };
   shell = hsPkgs.shellFor {
     packages = ps: [ generate-readme ];

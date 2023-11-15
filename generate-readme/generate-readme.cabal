@@ -21,7 +21,7 @@ executable generate-readme
   main-is:             Main.hs
   -- other-modules:
   -- other-extensions:
-  build-depends:       base >=4.13 && <4.14
+  build-depends:       base
                      , aeson
                      , text
                      , parsec

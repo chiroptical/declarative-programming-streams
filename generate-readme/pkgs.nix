@@ -2,8 +2,8 @@ import (builtins.fetchGit {
   # Descriptive name to make the store path easier to identify
   name = "nixos-unstable";
   url = "https://github.com/nixos/nixpkgs";
-  # Commit hash for nixos-unstable as of 2021-07-22
+  # Commit hash for nixos-unstable as of 2023-11-14
   # `git ls-remote https://github.com/nixos/nixpkgs nixos-unstable`
   ref = "refs/heads/nixos-unstable";
-  rev = "16105403bdd843540cbef9c63fc0f16c1c6eaa70";
+  rev = "e44462d6021bfe23dfb24b775cc7c390844f773d";
 })
