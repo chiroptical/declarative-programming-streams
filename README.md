@@ -13,6 +13,7 @@ A list of active (see [active](#active) for how we define active) declarative pr
 
 
 
+
 ##### Active
 
 The term "active" considers two components: frequency and consistency. The list
@@ -47,6 +48,7 @@ a `README.md` when it hits master.
 
 Here is a list of previously active streamers. Please open up a PR to make
 yourself active again
+
 
 
 <!-- generated:not-active-start -->
@@ -105,6 +107,7 @@ yourself active again
   - Schedule: Streams announced on [Twitter](https://twitter.com/tscholak)
 
 <!-- generated:not-active-end -->
+
 
 
 
