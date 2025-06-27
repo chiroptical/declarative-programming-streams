@@ -63,13 +63,6 @@
     "schedule": "Streams announced on [Twitter](https://twitter.com/tscholak)"
   },
   {
-    "name": "chiroptical",
-    "channel": "https://twitch.tv/chiroptical",
-    "speaking": ["EN"],
-    "languages": ["**Haskell**", "Rust", "TypeScript"],
-    "schedule": "Sun 9:00-11:00 AM EST"
-  },
-  {
     "name": "gillchristian",
     "channel": "https://twitch.tv/gillchristian",
     "speaking": ["EN"],

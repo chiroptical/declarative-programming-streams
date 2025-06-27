@@ -5,5 +5,12 @@
     "speaking": ["EN"],
     "languages": ["Haskell"],
     "schedule": "Tue at 8:10pm EST - [full schedule on twitch](https://www.twitch.tv/agentultra/schedule)"
+  },
+  {
+    "name": "chiroptical",
+    "channel": "https://twitch.tv/chiroptical",
+    "speaking": ["EN"],
+    "languages": ["Unison", "Erlang", "Haskell"],
+    "schedule": "Mon-Fri 7:45-8:30 AM EST"
   }
 ]
