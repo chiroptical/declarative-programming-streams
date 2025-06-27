@@ -8,8 +8,13 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Haskell
   - Schedule: Tue at 8:10pm EST - [full schedule on twitch](https://www.twitch.tv/agentultra/schedule)
+- [chiroptical](https://twitch.tv/chiroptical):
+  - Speaking: EN
+  - Programming Languages: Unison, Erlang, Haskell
+  - Schedule: Mon-Fri 7:45-8:30 AM EST
 
 <!-- generated:end -->
+
 
 
 
@@ -51,16 +56,13 @@ yourself active again
 
 
 
+
 <!-- generated:not-active-start -->
 
 - [avh4](https://www.twitch.tv/avh4):
   - Speaking: EN
   - Programming Languages: Elm, Haskell
   - Schedule: [Various times Tu/Th/Su](https://twitter.com/avh4/status/1333478708934369282)
-- [chiroptical](https://twitch.tv/chiroptical):
-  - Speaking: EN
-  - Programming Languages: **Haskell**, Rust, TypeScript
-  - Schedule: Sun 9:00-11:00 AM EST
 - [gillchristian](https://twitch.tv/gillchristian):
   - Speaking: EN
   - Programming Languages: Haskell, PureScript, TypeScript (fp-ts), Reason, Rust
@@ -107,6 +109,7 @@ yourself active again
   - Schedule: Streams announced on [Twitter](https://twitter.com/tscholak)
 
 <!-- generated:not-active-end -->
+
 
 
 
