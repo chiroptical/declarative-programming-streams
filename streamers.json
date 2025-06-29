@@ -12,5 +12,12 @@
     "speaking": ["EN"],
     "languages": ["Unison", "Erlang", "Haskell"],
     "schedule": "Mon-Fri 7:45-8:30 AM EST"
+  },
+  {
+    "name": "nicuveo",
+    "channel": "https://twitch.tv/nicuveo",
+    "speaking": ["EN"],
+    "languages": ["Haskell"],
+    "schedule": "Tuesday and Thursday at 8PM Dublin time"
   }
 ]
