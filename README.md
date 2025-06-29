@@ -12,8 +12,13 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: Unison, Erlang, Haskell
   - Schedule: Mon-Fri 7:45-8:30 AM EST
+- [nicuveo](https://twitch.tv/nicuveo):
+  - Speaking: EN
+  - Programming Languages: Haskell
+  - Schedule: Tuesday and Thursday at 8PM Dublin time
 
 <!-- generated:end -->
+
 
 
 
@@ -53,6 +58,7 @@ a `README.md` when it hits master.
 
 Here is a list of previously active streamers. Please open up a PR to make
 yourself active again
+
 
 
 
@@ -109,6 +115,7 @@ yourself active again
   - Schedule: Streams announced on [Twitter](https://twitter.com/tscholak)
 
 <!-- generated:not-active-end -->
+
 
 
 
